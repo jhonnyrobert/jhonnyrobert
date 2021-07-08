@@ -1,6 +1,12 @@
-# Jhonny Robert (TioZigu)
+# Jhonny Robert (Zigu)
 
-Mestre em Engenharia de Computação e Sistemas - Universidade Estadual do Maranhão (UEMA).
+Mestre em Engenharia de Computação e Sistemas (Universidade Estadual do Maranhão -UEMA)
+
+Software quality assurance (FWK - Innovation Design)
+
+COO (ImaginaKIDS)
+
+Pesquisador no campo de Pensamento Computacional
 
 [![Twitter Badge](https://img.shields.io/badge/-@TioZigu-0000ff?style=flat-square&labelColor=0000ff&logo=twitter&logoColor=white&link=https://twitter.com/TioZigu)](https://twitter.com/dieegosf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhonny%20Robert-0000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonny-robert-si-slz-ma/)](https://www.linkedin.com/in/diego-schell-fernandes/) 

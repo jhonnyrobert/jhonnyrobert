@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Jhonny Robert (Zigu)
+## Jhonny Robert (Zigu)
 ##### Mestre em Engenharia de Computação e Sistemas (Universidade Estadual do Maranhão -UEMA)<br>COO (ImaginaKIDS) - Pesquisador no campo de Pensamento Computacional 
 ## Software quality assurance (FWK - Innovation Design) 
 

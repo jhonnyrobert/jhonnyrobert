@@ -1,5 +1,6 @@
 ## Jhonny Robert ( Zigu )
 ##### Mestre em Engenharia de Computação e Sistemas <br>COO (ImaginaKIDS)
+##### Teacher in Lesson Education
 ## Software quality assurance (FWK - Innovation Design) 
 
  <div>

@@ -1,6 +1,7 @@
 ## Jhonny Robert ( Zigu )
+## Quality Assurance Test Engineer 
 ##### Mestre em Engenharia de Computação e Sistemas <br>COO (ImaginaKIDS)<br>Teacher in Lesson Education
-## Software quality assurance (FWK - Innovation Design) 
+
 
  <div>
   <a href="https://github.com/rafaballerini">

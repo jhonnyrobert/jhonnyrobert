@@ -1,9 +1,13 @@
-## Jhonny Robert ( Zigu )
 ## Quality Assurance Test Engineer 
-##### Mestre em Engenharia de Computação e Sistemas <br>COO (ImaginaKIDS)<br>Teacher in Lesson Education
+##### Masters in Software Engineering - Majors in Information Systems
 
+<div>
+Since 2014, I work actively in the Information Technology as a Systems Analyst and Quality Analyst. 
+I have knowledge in business process modeling, requirements gathering, and software review, analysis and testing. Ultimately, I have expertise in product documentation, negotiation, customer service, business rules, project management, among others.
+</div>
 
  <div>
+ <br>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnyrobert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyrobert&layout=compact&langs_count=7&theme=dracula"/>

@@ -18,6 +18,20 @@ I have knowledge in business process modeling, requirements gathering, and softw
 
 
   
+
+ 
+ ## 🎙️ Talks, Palestras e Workshops
+ - [QA no mundo ágil e suas ferramentas!](https://www.youtube.com/watch?v=vsyZ-mA2AUo&t=2418s)
+
+ <!--
+ <div>
+ <p>Enthusiast of the best web & mobile development technologies.
+ <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnyrobert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyrobert&layout=compact&langs_count=7&theme=dracula"/>
+
+</div>
+  -->
 ## 💻 Tecnologias
 <div style="display: inline_block">
 
@@ -38,20 +52,6 @@ I have knowledge in business process modeling, requirements gathering, and softw
   <img align="center" alt="jenkins" height="30" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
 
 </div>
-
- 
- ## 🎙️ Talks, Palestras e Workshops
- - [QA no mundo ágil e suas ferramentas!](https://www.youtube.com/watch?v=vsyZ-mA2AUo&t=2418s)
- _______________
- 
- <div>
- <p>Enthusiast of the best web & mobile development technologies.
- <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnyrobert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyrobert&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
-  
 
 
 

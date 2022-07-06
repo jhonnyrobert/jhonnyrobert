@@ -1,9 +1,11 @@
 ## Quality Assurance Test Engineer 
 ##### Masters in Software Engineering - Bachelor Degree in Information Systems
-<div>
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/23532787/177579458-1d412511-13a9-4386-b609-b5ba0340bd1f.png"/>
+
 Since 2014, I work actively in the Information Technology as a Systems Analyst and Quality Analyst. 
 I have knowledge in business process modeling, requirements gathering, and software review, analysis and testing. Ultimately, I have expertise in product documentation, negotiation, customer service, business rules, project management, among others.
- <div>
+
   <br>
    <a href="https://www.linkedin.com/in/jhonny-robert-si-slz-ma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a> 
@@ -11,8 +13,8 @@ I have knowledge in business process modeling, requirements gathering, and softw
    </a>
  	 <a href="https://www.twitch.tv/tiozigu" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
- </div> 
-</div>
+ 
+
 
 
   
@@ -50,7 +52,6 @@ I have knowledge in business process modeling, requirements gathering, and softw
 
 </div>
   
- 
 
 
 

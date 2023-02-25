@@ -8,7 +8,9 @@
 - 📫 How to reach me: jhonnyrobert.s@outlook.com
 <img align="right" width="320" src="https://user-images.githubusercontent.com/23532787/177579458-1d412511-13a9-4386-b609-b5ba0340bd1f.png"/>
 
-Since 2014, I have been actively working in the Information Technology area, as a Quality and Systems Analyst. I have experience in specification, preparation and execution of tests, defect records and elaboration of automation scripts, software engineering, BDD, Scrum, Kanban, analysis of business rules, among others. I am currently looking for new challenges, mainly focusing on software quality management and leadership.
+Hi, how are you? Let me introduce myself... My name is Jhonny [zigu], I have a degree in Information Systems and a Master's degree in Software Engineering. I have over 7 years of experience in the Information Technology field. As a Software Quality specialist, I have extensive experience in ensuring high-quality solutions are delivered to my clients. With strong skills in automated testing, BDD, and agile methodologies, I am able to effectively collaborate with multidisciplinary teams to ensure the success of complex projects.
+
+As an Automated Testing Architect, I am constantly seeking opportunities to enhance my skills and collaborate with teams on challenging projects. I believe that I can be a great ally for companies that are looking for continuous improvement in their software quality practices and want reliable and efficient results in their deliveries.
 
   
  ### 🎙️ Talks, Palestras e Workshops
